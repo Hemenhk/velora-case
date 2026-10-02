@@ -13,7 +13,7 @@ export function Wordmark({ className }: { className?: string }) {
         className,
       )}
     >
-      velora
+      Velora
     </span>
   );
 }
